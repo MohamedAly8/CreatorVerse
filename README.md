@@ -1,7 +1,7 @@
 Submitted by: **Mohamed Aly**
 
-### About this web app:
-CreatorVerse is a web app that allows users to create, read, update, and delete content creators. The app uses React for the frontend and Supabase for the backend. Content Creators have a name, Social Media URL, Image URL and a description. The app uses the Supabase API to make calls to the database.
+### About:
+**CreatorVerse** is a web app that allows users to create, read, update, and delete content creators. The app uses React for the frontend and Supabase for the backend. Content Creators have a name, Social Media URL, Image URL and a description. The app uses the Supabase API to make calls to the database.
 
 
 Time spent: **5** hours
@@ -40,12 +40,8 @@ Here's a walkthrough of implemented required features:
 
 👉🏿<img src='CreatorVerse.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
-<!-- Replace this with whatever GIF tool you used! -->
-GIF created with ...  👉🏿 GIF tool here
-<!-- Recommended tools:
-[Kap](https://getkap.co/) for macOS
-[ScreenToGif](https://www.screentogif.com/) for Windows
-[peek](https://github.com/phw/peek) for Linux. -->
+GIF created with LiceCap
+
 
 ## Notes
 
